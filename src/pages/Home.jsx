@@ -126,7 +126,7 @@ export default function Home() {
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
         <div className="text-center mb-12">
           <h2 className="  text-4xl sm:text-5xl font-bold text-primary mb-4">
-            Why Choose Luxe Essence
+            Why Choose Aman's Perfumes?
           </h2>
         </div>
 
