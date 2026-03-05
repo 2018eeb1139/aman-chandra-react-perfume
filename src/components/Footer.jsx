@@ -14,7 +14,7 @@ export default function Footer() {
                   <Framer />
                 </span>
               </div>
-              <span className="  text-lg font-semibold">Aman's Perfume</span>
+              <span className="text-lg font-semibold">Aman's Perfume</span>
             </div>
             <p className="text-accent/70 text-sm leading-relaxed">
               Premium fragrances crafted with the finest ingredients from around
@@ -48,7 +48,7 @@ export default function Footer() {
 
           {/* Information */}
           <div>
-            <h4 className="  font-semibold mb-4">Social Links</h4>
+            <h4 className="font-semibold mb-4">Social Links</h4>
             <ul className="space-y-2 text-sm text-accent/70">
               <li>Instagram</li>
               <li>Facebook</li>
@@ -58,7 +58,7 @@ export default function Footer() {
 
           {/* Contact */}
           <div>
-            <h4 className="  font-semibold mb-4">Contact Us</h4>
+            <h4 className="font-semibold mb-4">Contact Us</h4>
             <ul className="space-y-3">
               <li className="flex items-center gap-2 text-sm text-accent/70">
                 <Phone size={16} className="text-secondary" />

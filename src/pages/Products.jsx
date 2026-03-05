@@ -2,7 +2,6 @@ import { useState } from "react";
 import ProductCard from "../components/ProductCard";
 import { perfumes } from "../data/perfumes.js";
 import { ChevronDown } from "lucide-react";
-
 import { Card, CardContent } from "@/components/ui/card";
 
 export default function Products() {
@@ -39,7 +38,7 @@ export default function Products() {
             <div className="space-y-6 sticky top-24">
               {/* Sort By */}
               <div>
-                <h3 className="  font-semibold text-lg text-primary mb-4">
+                <h3 className="font-semibold text-lg text-primary mb-4">
                   Sort By
                 </h3>
                 <div className="relative">
@@ -84,7 +83,7 @@ export default function Products() {
               <Card>
                 <CardContent className="flex items-center justify-center h-96">
                   <div className="text-center">
-                    <p className="text-2xl   text-primary mb-2">
+                    <p className="text-2xl text-primary mb-2">
                       No fragrances found
                     </p>
                     <p className="text-muted">Try adjusting your filters</p>
