@@ -98,7 +98,7 @@ export default function Home() {
                 </h2>
               </div>
               <p className="text-muted text-lg leading-relaxed">
-                At Luxe Essence, we believe that fragrance is more than just a
+                At Aman's Perfume, we believe that fragrance is more than just a
                 scent—it's a form of self-expression. Each bottle contains hours
                 of careful craftsmanship and the finest ingredients sourced from
                 around the world.
